@@ -1,1 +1,1 @@
-# Food-and-Cloth-Management-Sytsem
+# Food-and-Cloth-Management-System
